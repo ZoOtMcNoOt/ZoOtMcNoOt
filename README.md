@@ -20,5 +20,3 @@ My name is Grant McNatt! I am currently at Texas A&M University studying biomedi
 <a href="mailto:gmcnatt1@tamu.edu"><img src="https://skillicons.dev/icons?i=gmail" alt="HTML tutorial"></a>
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/grant.mcnatt)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/grant-mcnatt/)
-
-![Top Langs](https://github-readme-stats-esax23erb-zoots-projects.vercel.app/api/top-langs/?username=ZoOtMcNoOt&size_weight=0.5&count_weight=0.5)
