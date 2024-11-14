@@ -6,13 +6,13 @@ My name is Grant McNatt! I am currently at Texas A&M University studying biomedi
 
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,sql,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,r,ts)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,flask,nodejs,pytorch,tensorflow)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
-   [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,github,git,mongodb)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,github,git,mongodb,figma)](https://skillicons.dev)
   
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact me:
