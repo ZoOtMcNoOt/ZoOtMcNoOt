@@ -9,7 +9,7 @@ My name is Grant McNatt! I am currently at Texas A&M University studying biomedi
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,r,ts)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flask,nodejs,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,flask,nodejs,pytorch,tensorflow)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
    [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,github,git,mongodb,figma)](https://skillicons.dev)
