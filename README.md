@@ -2,7 +2,7 @@
 ![1](https://github.com/ZoOtMcNoOt/ZoOtMcNoOt/assets/60593837/35978f2e-3f05-4cbf-852e-c700ceb3dfcb)
 
 My name is Grant McNatt! I am currently at Texas A&M University studying biomedical engineering.
-🔭 I’m currently working on my summer projects and thought it would be fun to start my journey on Github to keep track of everything. Feel free to reach out!
+🔭 Feel free to reach out!
 
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
