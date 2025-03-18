@@ -72,7 +72,7 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 <hr/>
