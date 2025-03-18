@@ -62,6 +62,7 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI" />
   </div>
 </p>
+
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats-liard-alpha-57.vercel.app/api?username=zootmcnoot&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
