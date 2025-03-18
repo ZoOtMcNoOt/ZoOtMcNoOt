@@ -64,9 +64,8 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 </p>
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-git-main-zoots-projects.vercel.app/api?username=zootmcnoot&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-main-zoots-projects.vercel.app/?user=zootmcnoot&theme=dark&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats-git-main-zoots-projects.vercel.app/api/top-langs/?username=zootmcnoot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-liard-alpha-57.vercel.app/api?username=zootmcnoot&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-liard-alpha-57.vercel.app/api/top-langs/?username=zootmcnoot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ### ✍️ Random Dev Quote
