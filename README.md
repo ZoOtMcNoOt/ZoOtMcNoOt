@@ -65,13 +65,13 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-liard-alpha-57.vercel.app/api?username=zootmcnoot&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-liard-alpha-57.vercel.app/api/top-langs/?username=zootmcnoot&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-liard-alpha-57.vercel.app/api?username=zootmcnoot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-liard-alpha-57.vercel.app/api/top-langs/?username=zootmcnoot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=material-palenight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 <hr/>
