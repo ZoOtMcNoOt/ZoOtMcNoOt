@@ -93,7 +93,7 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 | ❌ | ❌ | "How to Read and Do Proofs" by Daniel Solow |
 | ❌ | ❌ | "Introduction to the Theory of Computation, Third Edition" by Michael Sipser |
 
-### 3️⃣ Programming Abstractions - 106B
+### 3️⃣ Programming Abstractions
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
 | ❌ | ❌ | Eric Roberts' "Programming Abstractions in C++" |
