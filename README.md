@@ -132,26 +132,26 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 |:----:|:--------:|----------|
 | ❌ | ❌ | "Readings in Database Systems" |
 | ❌ | ❌ | "Database System Concepts" Seventh Edition |
-| 🔹 | ❌ | https://15445.courses.cs.cmu.edu/spring2025/syllabus.html |
+| ✅ | ❌ | https://15445.courses.cs.cmu.edu/spring2025/syllabus.html |
 
 ### 1️⃣0️⃣ Networking and the Internet
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
-| 🔹 | ❌ | https://psteenkiste.github.io/nets-fa24/schedule.html |
+| ✅ | ❌ | https://psteenkiste.github.io/nets-fa24/schedule.html |
 | ❌ | ❌ | "Computer Networks: A Systems Approach" by Larry Peterson and Bruce Davie |
 | ❌ | ❌ | "Computer Networking: A Top-Down Approach" |
 
 ### 1️⃣1️⃣ Compilers
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
-| 🔹 | ❌ | https://www.cs.cmu.edu/~janh/courses/411/23/resources.html |
+| ✅ | ❌ | https://www.cs.cmu.edu/~janh/courses/411/23/resources.html |
 | ❌ | ❌ | "Crafting Interpreters" |
 
 ### 1️⃣2️⃣ Distributed Systems
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
 | ❌ | ❌ | "Distributed Systems" 4th edition |
-| 🔹 | ❌ | https://www.distributed-systems.net/index.php/books/ds4/ |
+| ✅ | ❌ | https://www.distributed-systems.net/index.php/books/ds4/ |
 | ✅ | ❌ | "Designing Data-Intensive Applications" |
 
 ---
@@ -166,12 +166,12 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 ### 1️⃣4️⃣ Linear Algebra
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
-| 🔹 | ❌ | https://mml-book.github.io/ |
+| ✅ | ❌ | https://mml-book.github.io/ |
 
 ### 1️⃣5️⃣ Theoretical Computer Science
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
-| 🔹 | ❌ | https://www.cs.cmu.edu/~15251/course-info.html |
+| ✅ | ❌ | https://www.cs.cmu.edu/~15251/course-info.html |
 | ❌ | ❌ | "Quantum Computing Since Democritus" by Scott Aaronson |
 
 ---
@@ -181,18 +181,18 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 ### 1️⃣6️⃣ Artificial Intelligence Foundations
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
-| 🔹 | ❌ | https://www.cs.cmu.edu/~15281/#schedule |
+| ✅ | ❌ | https://www.cs.cmu.edu/~15281/#schedule |
 | ❌ | ❌ | "Artificial Intelligence: A Modern Approach, Fourth Edition" |
 
 ### 1️⃣7️⃣ Introduction to Machine Learning
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
-| 🔹 | ❌ | https://www.cs.cmu.edu/~10315/ |
+| ✅ | ❌ | https://www.cs.cmu.edu/~10315/ |
 
 ### 1️⃣8️⃣ Neural Computation
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
-| 🔹 | ❌ | https://www.cnbc.cmu.edu/~tai/nc22.html |
+| ✅ | ❌ | https://www.cnbc.cmu.edu/~tai/nc22.html |
 
 ### 1️⃣9️⃣ Computer Vision
 | Have | Complete | Resource |
@@ -220,5 +220,4 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 ---
 
 **Notes:**
-- For online resources, "Have" is marked as 🔹
 - Use ✅ to mark completed items
