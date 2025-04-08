@@ -6,7 +6,7 @@
 # 💫 About Me:
 Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M University (graduating May 2026) with a minor in Computer Science. I’m passionate about merging technology with  engineering to solve real-world healthcare challenges. My experience spans developing user-centric analytics platforms with Palantir, researching advanced machine learning applications at the Advanced Vision and Learning Lab, and engineering signal processing solutions at Texas A&M School of Medicine.
 
-🔭 Always eager to collaborate on groundbreaking projects—feel free to reach out!
+🔭 Always eager to collaborate—feel free to reach out!
 
 ## 🌐 Socials:
 <p align="center">
