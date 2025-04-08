@@ -84,7 +84,7 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
 | ❌ | ❌ | "Introducing Python" by Lubanovic |
-| ✅ | ❌ | "Structure and Interpretation of Computer Programs" |
+| ✅ | 🔹 | "Structure and Interpretation of Computer Programs" |
 
 ### 2️⃣ Mathematical Foundations of Computing
 | Have | Complete | Resource |
