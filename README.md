@@ -4,7 +4,7 @@
 </p>
 
 # 💫 About Me:
-Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M University (graduating May 2026) with a minor in Computer Science. I’m passionate about merging technology with  engineering to solve real-world healthcare challenges. My experience spans developing user-centric analytics platforms, researching advanced machine learning applications at the Advanced Vision and Learning Lab, and engineering signal processing solutions at Texas A&M School of Medicine.
+Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M University (graduating Dec 2026) with a minor in Computer Science. I’m passionate about merging technology with  engineering to solve real-world healthcare challenges. My experience spans developing user-centric analytics platforms, researching advanced machine learning applications at the Advanced Vision and Learning Lab, and engineering signal processing solutions at Texas A&M School of Medicine.
 
 🔭 Always eager to collaborate—feel free to reach out!
 
@@ -76,7 +76,7 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 
 <hr/>
 
-# 🎓 Computer Science Learning Path
+# 🎓 Computer Science Library
 
 ## 📚 Foundations
 
@@ -216,8 +216,3 @@ Howdy, I'm Grant McNatt – a Biomedical Engineering student at Texas A&M Univer
 |:----:|:--------:|----------|
 | ❌ | ❌ | "Multiple View Geometry in Computer Vision" by Richard Hartley and Andrew Zisserman |
 | ❌ | ❌ | "Computer Vision: A Modern Approach" by David Forsyth and Jean Ponce |
-
----
-
-**Notes:**
-- Use ✅ to mark completed items
