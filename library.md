@@ -36,7 +36,7 @@
 ### 6️⃣ Computer Organization and Systems
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
-| ❌ | ❌ | Bryant & O'Hallaron, "Computer Systems: A Programmer's Perspective, 3rd Edition" |
+| ✅ | ❌ | Bryant & O'Hallaron, "Computer Systems: A Programmer's Perspective, 3rd Edition" |
 
 ### 7️⃣ Computer Architecture
 | Have | Complete | Resource |
