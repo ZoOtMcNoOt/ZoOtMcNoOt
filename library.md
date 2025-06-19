@@ -12,6 +12,7 @@
 | Have | Complete | Resource |
 |:----:|:--------:|----------|
 | ❌ | ❌ | "How to Read and Do Proofs" by Daniel Solow |
+| ✅ | ✅ | "Discrete Mathematics and Its Applications" by Rosen |
 | ❌ | ❌ | "Introduction to the Theory of Computation, Third Edition" by Michael Sipser |
 
 ### 3️⃣ Programming Abstractions
