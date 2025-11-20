@@ -65,8 +65,8 @@ Howdy, I'm Grant McNatt, a Biomedical Engineering student at Texas A&M Universit
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="github-readme-stats-with-e0wkow76v-zoots-projects.vercel.app/api?username=zootmcnoot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="github-readme-stats-with-e0wkow76v-zoots-projects.vercel.app/api/top-langs/?username=zootmcnoot&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,HTML,cmake,dockerfile,makefile&hide_border=false&langs_count=8&include_all_commits=true&count_private=true&layout=donut" alt="Top Languages" />
+  <img src="https://github-readme-stats-with-e0wkow76v-zoots-projects.vercel.app/api?username=zootmcnoot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-with-e0wkow76v-zoots-projects.vercel.app/api/top-langs/?username=zootmcnoot&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,HTML,cmake,dockerfile,makefile&hide_border=false&langs_count=8&include_all_commits=true&count_private=true&layout=donut" alt="Top Languages" />
 </p>
 
 ### ✍️ Random Dev Quote
