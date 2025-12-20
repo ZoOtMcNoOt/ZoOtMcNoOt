@@ -3,10 +3,7 @@
   <img src="https://github.com/ZoOtMcNoOt/ZoOtMcNoOt/assets/60593837/35978f2e-3f05-4cbf-852e-c700ceb3dfcb" alt="Banner" style="max-width:100%;" />
 </p>
 
-# 💫 About Me:
-Howdy, I'm Grant McNatt, a Biomedical Engineering student at Texas A&M University (graduating Dec 2026) with a minor in Computer Science.
-
-🔭 Always eager to collab, feel free to reach out!
+Howdy, I'm Grant McNatt, a Biomedical Engineering student at Texas A&M University (graduating Dec 2026) with a minor in Computer Science. Always eager to collab, feel free to reach out!
 
 ## 🌐 Socials:
 <p align="center">
@@ -62,8 +59,6 @@ Howdy, I'm Grant McNatt, a Biomedical Engineering student at Texas A&M Universit
   </div>
 </p>
 
-
-### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
