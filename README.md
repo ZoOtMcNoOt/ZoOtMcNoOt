@@ -25,7 +25,6 @@ Howdy, I'm Grant McNatt, a Biomedical Engineering student at Texas A&M Universit
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white" alt="LaTeX" />
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" alt="Markdown" />
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white" alt="PowerShell" />
@@ -63,11 +62,6 @@ Howdy, I'm Grant McNatt, a Biomedical Engineering student at Texas A&M Universit
   </div>
 </p>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats-with-org.vercel.app/api?username=zootmcnoot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-with-org.vercel.app/api/top-langs/?username=zootmcnoot&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,HTML,css,cmake,dockerfile,makefile&hide_border=false&langs_count=8&include_all_commits=true&count_private=true&layout=donut&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
-</p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
