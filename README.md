@@ -5,6 +5,8 @@
 
 Howdy, I'm Grant McNatt, a Biomedical Engineering student at Texas A&M University (graduating Dec 2026) with a minor in Computer Science. Always eager to collab, feel free to reach out!
 
+Currently straddling reading Competitive Programmer’s Handbook and DDIA.
+
 ## 🌐 Socials:
 <p align="center">
   <a href="https://discord.gg/4z7ZY6Mn"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" style="margin:2px;" /></a>
