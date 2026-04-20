@@ -3,7 +3,7 @@
   <img src="https://github.com/ZoOtMcNoOt/ZoOtMcNoOt/assets/60593837/35978f2e-3f05-4cbf-852e-c700ceb3dfcb" alt="Banner" style="max-width:100%;" />
 </p>
 
-Howdy, I'm Grant McNatt, a Biomedical Engineering student at Texas A&M University (graduating Dec 2026) with a minor in Computer Science. Always eager to collab, feel free to reach out!
+Hi, I'm Grant McNatt, a Biomedical Engineering student at Texas A&M University (graduating Dec 2026) with a minor in Computer Science. Always eager to collab over a caniac combo, feel free to reach out!
 
 Currently straddling reading Competitive Programmer’s Handbook and DDIA.
 
